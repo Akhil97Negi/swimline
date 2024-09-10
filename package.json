@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.20.0",
-    "json-server": "^1.0.0-beta.2"
+    "json-server": "^1.0.0-beta.1"
   }
 }
